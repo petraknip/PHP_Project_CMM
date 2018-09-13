@@ -26,7 +26,7 @@ switch( $_SERVER['SERVER_NAME'] ) {
         define('DB_HOST'            , 'localhost'                                   );
         define('DB_USER'            , 'root'                                        );
         define('DB_PASS'            , 'secret'                                      );
-        define('DB_NAME'            , 'cmm_wd18_news'                               );
+        define('DB_NAME'            , 'testdatabase'                               );
         
         define('DOCUMENT_ROOT'      , '/Users/Owner/Sites/Projecten/opdracht14/'    );
         define('WEB_URL'            , '//test.opdracht14.nl/'                       );
@@ -42,7 +42,7 @@ switch( $_SERVER['SERVER_NAME'] ) {
         define('DB_HOST'            , 'localhost'                                   );
         define('DB_USER'            , 'prod_user_1234'                              );
         define('DB_PASS'            , 'hfes_rci45o6tif'                             );
-        define('DB_NAME'            , 'nieuwsberichten'                             );
+        define('DB_NAME'            , 'therealdeal'                             );
                 
         define('DOCUMENT_ROOT'      , '/usr/user1234/domains/opdracht14/'           );
         define('WEB_URL'            , '//opdracht14.nl/'                            );
